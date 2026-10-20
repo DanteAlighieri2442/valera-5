@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #222;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    color: #235789;
+    border-bottom: 2px solid #235789;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #444;
+}
+
+li {
+    margin: 5px;
+}
+
+.image-list {
+    list-style-image: url("images/blue-star.svg");
+}
+
+dt {
+    font-weight: bold;
+    color: darkblue;
+    margin-top: 10px;
+}
+
+dd {
+    margin-bottom: 10px;
+}
